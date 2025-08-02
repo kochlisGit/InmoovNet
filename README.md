@@ -1,5 +1,5 @@
 # InmoovNet
-This repository contains the code and the 3d files of the work: *Learning to InMoov: A Deep Learning Approach to Modeling Human Hand*, presented in ECAI 2025. An overview of the model architecture is presented below.
+This repository contains the code and the 3d files of the work: *Learning to InMoov: A Deep Learning Approach to Modeling Human Hand*, presented in European Conference on Artificial Intelligence (ECAI) 2025. An overview of the model architecture is presented below.
 
 ![InmoovNet Overview](https://github.com/kochlisGit/InmoovNet/blob/main/images/inmoovoverview.png)
 
